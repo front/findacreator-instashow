@@ -1,0 +1,45 @@
+img {
+  width: 100%;
+  background-image: radial-gradient(center 0, circle farthest-corner, rgba(0,0,0,0.15), rgba(0,0,0,0));
+}
+
+body {
+/* background: url(../img/triangular.png) transparent 0 0 repeat;*/
+}
+
+p {
+  text-align: center;
+}
+
+.wrapper {
+  min-height: 1100px;
+  position: relative;
+
+
+  /*background: url(../img/industry2.jpg) transparent 0 0 repeat-y;
+  background-size: cover;*/
+}
+
+.slideshow {
+  margin: auto;
+  padding-top: 70px;
+  width: 50%;
+}
+
+.orbit-container {
+  background-color: transparent;
+}
+
+.orbit-slides-container {
+    box-shadow: 0 0 5px 2px rgba(0,0,0,.35);
+}
+
+.creator-logo {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.front-logo {
+  margin: 0 auto;
+  width: 100px;
+}
