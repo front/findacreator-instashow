@@ -37,7 +37,7 @@ p {
 }
 
 .orbit-slides-container {
-    
+
 
 }
 
@@ -49,8 +49,4 @@ p {
 .front-logo {
   margin: 0 auto;
   width: 100px;
-}
-
-.orbit-next, .orbit-prev, .orbit-bullets {
-  display: none;
 }
