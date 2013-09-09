@@ -43,7 +43,7 @@ p span {
 }
 
 .orbit-slides-container {
-    
+
 
 }
 
@@ -55,8 +55,4 @@ p span {
 .front-logo {
   margin: 0 auto;
   width: 100px;
-}
-
-.orbit-next, .orbit-prev, .orbit-bullets {
-  display: none;
 }
